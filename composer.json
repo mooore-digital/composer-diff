@@ -1,0 +1,21 @@
+{
+    "name": "mooore/composer-diff",
+    "description": "Get insight into the composer.lock changes between branches.",
+    "bin": "bin/composer-diff",
+    "require": {
+        "php": ">=7.3"
+    },
+    "authors": [
+        {
+            "name": "Mooore Digital",
+            "email": "info@mooore.nl",
+            "homepage": "https://www.mooore.nl"
+        }
+    ],
+    "keywords": [
+        "composer",
+        "diff",
+        "update",
+        "lock"
+    ]
+}

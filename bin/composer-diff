@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+require __DIR__ . '/../src/composer-diff.php';
+
+Mooore\ComposerDiff\create_diff($argv);
